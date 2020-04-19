@@ -1,5 +1,5 @@
 # git_classes Repo
-![./git_logo.png](Git symbol)
+![Git symbol](git_logo.png)
 This repository is just used for Git examples and classes.
 
 
